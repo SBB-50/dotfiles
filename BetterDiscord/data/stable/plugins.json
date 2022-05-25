@@ -1,0 +1,19 @@
+{
+    "ShowConnections": true,
+    "InvisibleTyping": true,
+    "GameActivityToggle": true,
+    "ZeresPluginLibrary": true,
+    "BDFDB": true,
+    "ReadAllNotificationsButton": true,
+    "SplitLargeMessages": true,
+    "PluginRepo": true,
+    "BetterRoleColors": true,
+    "CallTimeCounter": true,
+    "Animations": true,
+    "AvatarsEverywhere": true,
+    "BetterBotTags": true,
+    "BetterCodeblocks": true,
+    "BetterDiscord-TogetherV2": true,
+    "BetterFormattingRedux": true,
+    "BetterMediaPlayer": true
+}
